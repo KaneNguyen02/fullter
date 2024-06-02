@@ -1,1 +1,4 @@
-them file nay bi quen
+ sua noi dung file nay nhe. 
+ Sau đó thì có thể rebase chang hạn
+
+ neu dung thi dona nay se khong bi mat
