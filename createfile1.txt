@@ -1,1 +1,3 @@
 tao file moi ne
+
+tao commit cho rebase 2
